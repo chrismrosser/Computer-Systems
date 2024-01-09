@@ -14,7 +14,19 @@
   - Bits = 0 or 1s
   - Bytes = 8-bit characters
   - Text Characters translate to to ASCII 
-  - ASCII is a common standered that represents each character with a unque *byte sized* interger value.   
-### 1.2 
+  - ASCII is a common standard that represents each character with a unque *byte sized* interger value.   
+### 1.2 Programs are translated by other programs into different forms  
   
+  Quick look at the **compilation system**  
+  - A system of phases that take human text and convert it into readable binary to create an excutable program.  
+    - Preprocessing phase
+    - Compilation phase
+    - Assembly phase
+    - Linking phase   
   
+This is the process by which human code gets brought into a compiler into binary then into a executable object - useable program.  
+> ??? what exsactly is **Linux**  
+  
+>??? What is the differance between UNIX and GNU  
+  
+### 1.3 
