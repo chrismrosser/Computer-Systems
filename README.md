@@ -6,7 +6,7 @@
     
 ## Chapter 1: A tour of comptuer systems  
 
->Quesiton: What is a unix or unix shell
+>??? What is a unix or unix shell
   
 ### 1.1 Information is bits + context
   
@@ -39,7 +39,7 @@ Three reasons:
 Unix is an operating system similar to linux in many ways they are the same and for the most part should be considered as such.  
 
 ### 1.4 what do processors do  
-*Read and interpret insturcitons stored in memory*   
+*Read and interpret insturctions stored in memory*   
     
 **(1)**
 - hardware layout of a computer
